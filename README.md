@@ -28,7 +28,7 @@ To run the Weather App locally, follow these steps:
 
 ## API Key
 
-This application uses the OpenWeatherMap API to fetch weather data. You will need to sign up for an API key at [OpenWeatherMap](https://openweathermap.org/) and replace `YOUR_API_KEY` in the `App.js` file with your actual API key.
+This application uses the OpenWeatherMap API to fetch weather data. You will need to sign up for an API key at [OpenWeatherMap](https://openweathermap.org/) and replace `YOUR_API_KEY` in the `App.jsx` file with your actual API key.
 
 ## Contributions
 

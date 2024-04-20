@@ -14,8 +14,9 @@ To run the Weather App locally, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/Chouikhi-abdallah/React-Realtime-Weather-App.git`
 2. Navigate to the project directory: `cd <project-directory>`
-3. Install dependencies: `npm install or yarn install` 
-4. Start the development server: `npm run dev`
+3. Install dependencies: `npm install or yarn install`
+4. Install Axios:`npm install axios`
+6. Start the development server: `npm run dev`
 
 
 ## Technologies Used
